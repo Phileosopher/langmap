@@ -1,4 +1,4 @@
-# The Language Tree
+# The Language Tree: Almost Every Programming Language Ever Made
 This is an ambitious language map that covers *all* the programming languages, at least all the ones that were published somewhere.
 
 This map is an ambitious endeavor to give some sense of order to the tech industry.
@@ -13,7 +13,26 @@ I've given up editing this, since I have many other projects. Feel free to do wh
 
 TO DO LIST:
 
+Input all the languages below
+
+Clean up the language map a little by redirect to later iterations of dialects (most notably Lisp and C)
+
+Move everything around for visual appeal
+
+FUTURE HOPES:
+
+Color-code label by type (e.g., functional, object-oriented, etc)
+
+Make non-arrowed connections for various versions that are loosely related
+
+Get more granular with the versions (SNOBOL4, for example)
+
+Move the languages around to visually represent the spectrum of enterprise/niche, based on its intended purpose it was designed for
+
+LANGUAGES TO INPUT:
+
 https://en.wikipedia.org/wiki/List_of_programming_languages
+
   ObjectLOGO
   Object Pascal
   Objective-J
@@ -30,7 +49,7 @@ https://en.wikipedia.org/wiki/List_of_programming_languages
   ORCA/Modula-2 / Orca
   Oriel
   Orwell
-  
+
   P
   P4
   P′′
@@ -183,39 +202,111 @@ https://en.wikipedia.org/wiki/List_of_programming_languages
   Visual FoxPro
   Visual LISP
   Visual Objects
+
 https://en.wikipedia.org/wiki/List_of_CLI_languages
+
 https://en.wikipedia.org/wiki/SystemC
+
 https://en.wikipedia.org/wiki/CAL_Actor_Language
+
 https://en.wikipedia.org/wiki/Algebraic_modeling_language
+
 https://en.wikipedia.org/wiki/Cakewalk_(sequencer)
+
 https://en.wikipedia.org/wiki/Interpress
+
 https://dzone.com/articles/strangest-weirdest-funniest-programming-languages
+
 https://www.monitis.com/blog/five-of-the-weirdest-programming-languages/
+
 https://tutorialzine.com/2013/12/the-10-weirdest-programming-languages
+
 https://inoxoft.com/9-the-weirdest-programming-languages/
+
 https://aslisach.in/2019/5-most-weirdest-programming-languages/
+
 https://pixel77.com/12-bizarre-programming-languages-heard/
+
 https://code.tutsplus.com/articles/10-most-bizarre-programming-languages-ever-created--net-2412
+
 https://medium.com/web-development-zone/a-complete-list-of-computer-programming-languages-1d8bc5a891f
+
 https://en.wikipedia.org/wiki/Third-generation_programming_language
+
 https://en.wikipedia.org/wiki/Fourth-generation_programming_language
+
 https://en.wikipedia.org/wiki/Fifth-generation_programming_language
+
 https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
+
 http://cgibin.erols.com/ziring/cgi-bin/cep/cep.pl?_total=1&_format=index&_userlink=1
+
 https://en.wikipedia.org/wiki/Comparison_of_programming_languages
+
 https://en.wikipedia.org/wiki/X86_assembly_language
+
 X64 assembly language?
+
 make a list of assembly languages?
+
 https://en.wikipedia.org/wiki/Category:Assembly_languages
+
 https://en.wikipedia.org/wiki/Programming_language#Early_developments
+
 https://en.wikipedia.org/wiki/Category:Macro_programming_languages
+
 https://www.ubuntupit.com/linux-shell-roundup-15-most-popular-open-source-linux-shells/
+
 https://medium.com/web-development-zone/a-complete-list-of-computer-programming-languages-1d8bc5a891f
+
 https://en.wikipedia.org/wiki/List_of_markup_languages
+
 https://en.wikipedia.org/wiki/List_of_stylesheet_languages
+
 https://insights.dice.com/2020/11/17/qore-a-new-programming-language-worth-a-look/
+
 https://en.wikipedia.org/wiki/Category:C%2B%2B_programming_language_family
+
 https://en.wikipedia.org/wiki/List_of_C-family_programming_languages
+
 https://en.wikipedia.org/wiki/Category:JavaScript_programming_language_family
+
 https://en.wikipedia.org/wiki/Category:Java_programming_language_family
+
 https://www.rankred.com/new-programming-languages-to-learn/
+
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+https://en.wikipedia.org/wiki/History_of_programming_languages
+
+https://www.thesoftwareguild.com/blog/history-of-programming-languages/
+
+https://en.wikipedia.org/wiki/Generational_list_of_programming_languages
+
+https://en.wikipedia.org/wiki/System_programming_language
+
+REFERENCE (for the XML inside the Scapple file):
+
+Earlier = 600
+
+40s = 800
+
+51 = 1000
+
+52 1200
+
+53 1400
+
+60 2800
+
+70 4800
+
+80 6800
+
+90 8800
+
+00 10800
+
+10 12800
+
+20 14800
