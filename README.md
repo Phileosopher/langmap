@@ -9,7 +9,7 @@ It's absolutely stunning how fast public information can become arcane, especial
 
 Broadly, the map tries to avoid non-original dialects and libraries, though we could probably argue that most languages are simply libraries and dialects.
 
-I've given up editing this, since I have many other projects. Feel free to do what you want with it.
+I've given up editing this, since I have many other projects. Feel free to do what you want with it. The language map opens in Scapple, and I'm open to other options, since it gets a bit bogged down with all the connections.
 
 TO DO LIST:
 
